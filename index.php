@@ -69,7 +69,7 @@ span.psw {
 
 <h2>Login Form</h2>
 
-<form action="index.php" method="post">
+<form action="portfolyo.php" method="post">
   <div class="imgcontainer">
     <img src="image/42cb46ff-b2b1-4130-b413-2f4bb5fcbb80.jpeg" alt="Avatar" class="avatar">
   </div>
