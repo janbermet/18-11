@@ -71,7 +71,7 @@ span.psw {
 
 <form action="portfolyo.php" method="post">
   <div class="imgcontainer">
-    <img src="image/42cb46ff-b2b1-4130-b413-2f4bb5fcbb80.jpeg" alt="Avatar" class="avatar">
+    <img src="42cb46ff-b2b1-4130-b413-2f4bb5fcbb80.jpeg" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
